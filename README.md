@@ -1,1 +1,1 @@
-# 7506 - OrganizacionDeDatos - Cátedtra Martinelli#
+# 7506 - OrganizacionDeDatos - Cátedra Martinelli
